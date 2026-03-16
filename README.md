@@ -6,14 +6,12 @@ IT professional transitioning into cybersecurity with hands-on homelab experienc
 
 ## Certifications
 
+<p align="center">
 <a href="https://www.credly.com/badges/655b3d6e-5ed4-419a-a485-8a27cb7c9c38/public_url">
-  <img src="blob.png" width="120"/>
-</a>
-
+<img src="https://images.credly.com/size/110x110/images/c70ba73e-3c8a-46fa-9d60-4a9af94ad662/blob" width="120"/></a>
 <a href="https://www.credly.com/badges/67a8731e-1d81-4252-a4d4-6ccc54a7282a/public_url">
-  <img src="gcb.png" width="120"/>
-</a>
-
+<img src="https://images.credly.com/size/110x110/images/ef9f86ad-4e53-4dbc-8951-e4cab81ff09e/blob" width="120"/></a>
+</p>
 ---
 
 ## Homelab Projects
