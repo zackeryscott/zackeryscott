@@ -6,13 +6,13 @@ IT professional transitioning into cybersecurity with hands-on homelab experienc
 
 ## Certifications
 
-![CompTIA Network+](https://img.shields.io/badge/CompTIA-Network%2B-red)
-![Google Cybersecurity](https://img.shields.io/badge/Google-Cybersecurity-blue)
-![Security+](https://img.shields.io/badge/CompTIA-Security%2B-0078D6?style=flat&label=Studying)
+<a href="https://www.credly.com/badges/655b3d6e-5ed4-419a-a485-8a27cb7c9c38/public_url">
+  <img src="blob.png" width="120"/>
+</a>
 
-- CompTIA Network+
-- Google Cybersecurity Professional Certificate
-- Currently studying for Security+
+<a href="https://www.credly.com/badges/67a8731e-1d81-4252-a4d4-6ccc54a7282a/public_url">
+  <img src="gcb.png" width="120"/>
+</a>
 
 ---
 
