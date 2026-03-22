@@ -59,13 +59,14 @@ I use homelabs and self-directed projects to turn foundational knowledge into re
 |---|---|---|
 | [Active Directory Homelab](https://github.com/zackeryscott/active-directory-homelab) | Built a Windows domain environment with a Domain Controller, Member Server, Server Core system, and Windows 11 client using VirtualBox and Windows Server 2025. | Completed |
 
+
 ---
 
 ## Upcoming Labs
 
 | Project | Planned Focus | Status |
 |---|---|---|
-| Ticketing System Lab | Practice help desk workflows, incident handling, ticket documentation, and end-user support processes. | Planned |
+| Ticketing System Lab | Practice help desk workflows, incident handling, ticket documentation, and end-user support processes. | Completed |
 | SIEM Log Monitoring Lab | Collect and analyze Windows logs using Splunk for detection and monitoring practice. | Planned |
 | Vulnerability Scanning Lab | Identify and review system vulnerabilities using Nessus. | Planned |
 | Packet Analysis Lab | Investigate network traffic and suspicious activity using Wireshark. | Planned |
