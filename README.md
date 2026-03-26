@@ -84,7 +84,7 @@ I use homelabs and self-directed projects to turn foundational knowledge into re
 
 ## Currently Learning
 
-- CompTIA Security+
+- Cisco Certified Network Associate (CCNA)
 - Security monitoring with SIEM tools
 - Threat detection techniques
 - Network security fundamentals
