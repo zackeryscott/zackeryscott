@@ -8,7 +8,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-IT%20Support%20%26%20Infrastructure-0A66C2?style=for-the-badge" alt="IT Support and Infrastructure Focus" />
   <img src="https://img.shields.io/badge/Homelab-Building-2EA44F?style=for-the-badge" alt="Homelab Building" />
-  <img src="https://img.shields.io/badge/Currently%20Learning-Security%2B-F59E0B?style=for-the-badge" alt="Currently Learning Security+" />
 </p>
 
 <p align="center">
@@ -17,9 +16,6 @@
   </a>
   <a href="https://github.com/zackeryscott/active-directory-homelab">
     <img src="https://img.shields.io/badge/Featured%20Project-Active%20Directory%20Homelab-181717?style=for-the-badge&logo=github" alt="Featured Project" />
-  </a>
-  <a href="https://github.com/zackeryscott/helpdesk-homelab">
-    <img src="https://img.shields.io/badge/Featured%20Project-Help%20Desk%20Homelab-181717?style=for-the-badge&logo=github" alt="Help Desk Homelab" />
   </a>
 </p>
 
