@@ -44,9 +44,6 @@ I use homelabs and self-directed projects to turn foundational knowledge into re
   <a href="https://www.credly.com/badges/82960eb6-beff-4589-80a9-4a710252f842/public_url">
     <img src="https://images.credly.com/size/110x110/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob" alt="CompTIA Security+ Badge" />
   </a>
-  <a href="https://www.credly.com/badges/82960eb6-beff-4589-80a9-4a710252f842/public_url">
-    <img src="https://images.credly.com/size/110x110/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob" alt="CompTIA Security+ Badge" />
-  </a>
   <a href="https://www.credly.com/badges/655b3d6e-5ed4-419a-a485-8a27cb7c9c38/public_url">
     <img src="https://images.credly.com/size/110x110/images/c70ba73e-3c8a-46fa-9d60-4a9af94ad662/blob" alt="CompTIA Network+ Badge" />
   </a>
