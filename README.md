@@ -44,14 +44,11 @@ I use homelabs and self-directed projects to turn foundational knowledge into re
   <a href="https://www.credly.com/badges/655b3d6e-5ed4-419a-a485-8a27cb7c9c38/public_url">
     <img src="https://images.credly.com/size/110x110/images/c70ba73e-3c8a-46fa-9d60-4a9af94ad662/blob" alt="CompTIA Network+ Badge" />
   </a>
-  <a href="https://www.credly.com/badges/67a8731e-1d81-4252-a4d4-6ccc54a7282a/public_url">
-    <img src="https://images.credly.com/size/110x110/images/ef9f86ad-4e53-4dbc-8951-e4cab81ff09e/blob" alt="Google Cybersecurity Certificate Badge" />
-  </a>
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/CompTIA-Security%2B-EA3E23?style=flat-square" alt="CompTIA Security+" />
   <img src="https://img.shields.io/badge/CompTIA-Network%2B-EA3E23?style=flat-square" alt="CompTIA Network+" />
-  <img src="https://img.shields.io/badge/Google-Cybersecurity%20Certificate-4285F4?style=flat-square&logo=google" alt="Google Cybersecurity Certificate" />
 </p>
 
 ---
